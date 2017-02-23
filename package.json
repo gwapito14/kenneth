@@ -1,7 +1,7 @@
 {
   "name": "canada-022317",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# kenneth\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwapito14/kenneth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwapito14/kenneth/issues"
+  },
+  "homepage": "https://github.com/gwapito14/kenneth#readme"
 }
